@@ -1,4 +1,4 @@
-<h1 align='center'> Olá, eu sou o Igor  👩‍💻 </h1>
+<h1 align='center'> Olá, eu sou o Igor 💻</h1>
 
 <p align='center'>
   Eu moro em São Paulo Brasil, e trabalho  <b>Orbium</b> 
@@ -10,42 +10,17 @@
 
 <hr>
 
-
-<!--
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 <h4> 🔭 Atualmente, estou trabalhando com ...</h4>
 
-
-<h5>Frontend</h5>
 <p>
-  <img src="https://img.shields.io/badge/HTML5%20-%23e34f26.svg?&style=for-the-badge&logo=html5&logoColor=white" />&nbsp;&nbsp;<img src="https://img.shields.io/badge/CSS3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" />&nbsp;&nbsp;<img src="https://img.shields.io/badge/JQUERY%20-%230769ad.svg?&style=for-the-badge&logo=jquery&logoColor=white" />&nbsp;&nbsp;<img src="https://img.shields.io/badge/JAVASCRIPT%20-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white" />&nbsp;&nbsp;
-</p>
-
-<h5>Backend</h5>
-<p>
-  <img src="https://img.shields.io/badge/DOTNETCore%20-%234d97ff.svg?&style=for-the-badge&logo=DOTNETCore&logoColor=blue" />&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/DOTNETFramework%20-%23000000.svg?&style=for-the-badge&logo=dotnetframework&logoColor=blue" />&nbsp;&nbsp;&nbsp;
-</p>
-
-<h5>Banco</h5>
-<p >
-  <img src="https://img.shields.io/badge/SQL%20-%23000000.svg?&style=for-the-badge&logo=sql&logoColor=red" />&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/HTML5%20-%23e34f26.svg?&style=for-the-badge&logo=html5&logoColor=white" />&nbsp;&nbsp;<img src="https://img.shields.io/badge/CSS3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" />&nbsp;&nbsp;<img src="https://img.shields.io/badge/JQUERY%20-%230769ad.svg?&style=for-the-badge&logo=jquery&logoColor=white" />&nbsp;&nbsp;<img src="https://img.shields.io/badge/JAVASCRIPT%20-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white" />&nbsp;&nbsp;<img src="https://img.shields.io/badge/csharp%20-%234d97ff.svg?&style=for-the-badge&logo=.net&logoColor=white" />&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/Framework%20-%23000000.svg?&style=for-the-badge&logo=.net&logoColor=white" />&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/sql%20-%23000000.svg?&style=for-the-badge&logo=sql&logoColor=white" />&nbsp;&nbsp;&nbsp;
 </p>
 
 <hr>
 
 <h4>🌱 No momento, estou aprendendo ...</h4>
 <p >
-  <img src="https://img.shields.io/badge/ANGULAR10%20-%2361DAFB.svg?&style=for-the-badge&logo=angular10&logoColor=white" />&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/DesignerPatterns%20-%23339933.svg?&style=for-the-badge&logo=DesignerPatterns&logoColor=white" />&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/GitHubAction%20-%23cc6699.svg?&style=for-the-badge&logo=GitHubAction&logoColor=white" />&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Core%20-%234d97ff.svg?&style=for-the-badge&logo=.net&logoColor=white" />&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/ANGULAR10%20-%2361DAFB.svg?&style=for-the-badge&logo=angular&logoColor=white" />&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/DesignerPatterns%20-%23339933.svg?&style=for-the-badge&logo=DesignerPatterns&logoColor=white" />&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/Action%20-%23cc6699.svg?&style=for-the-badge&logo=github&logoColor=white" />&nbsp;&nbsp;&nbsp;
 </p>
 
 
