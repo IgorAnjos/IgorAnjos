@@ -35,7 +35,7 @@
 
 <br>
 <p align="right">
-  <a href="#"><img src="https://img.shields.io/badge/spotify-%231ED760.svg?&style=for-the-badge&logo=spotify&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/spotify-%231ED760.svg?&style=for-the-badge&logo=spotify&logoColor=white" />
   <h5 align="right">Enquanto coda ...</h5>
 </p>
 
