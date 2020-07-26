@@ -20,7 +20,7 @@
 
 <h4>🌱 No momento, estou aprendendo ...</h4>
 <p >
-  <img src="https://img.shields.io/badge/Core%20-%234d97ff.svg?&style=for-the-badge&logo=.net&logoColor=white" />&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/ANGULAR10%20-%2361DAFB.svg?&style=for-the-badge&logo=angular&logoColor=white" />&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/Builder%20-%23339933.svg?&style=for-the-badge&logo=Builder&logoColor=white" />&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/Action%20-%23cc6699.svg?&style=for-the-badge&logo=github&logoColor=white" />&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Core%20-%234d97ff.svg?&style=for-the-badge&logo=.net&logoColor=white" />&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/EntityFrameworkCore%20-%23e34f26.svg?&style=for-the-badge&logo=.net&logoColor=white" />&nbsp;&nbsp;<img src="https://img.shields.io/badge/ANGULAR10%20-%2361DAFB.svg?&style=for-the-badge&logo=angular&logoColor=white" />&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/Builder%20-%23339933.svg?&style=for-the-badge&logo=Builder&logoColor=white" />&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/Action%20-%23cc6699.svg?&style=for-the-badge&logo=github&logoColor=white" />&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/Identity%20-%234d97ff.svg?&style=for-the-badge&logo=.net&logoColor=white" />&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/solid%20-%23cc6699.svg?&style=for-the-badge&logo=solid&logoColor=white" />&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/CleanCode%20-%23339933.svg?&style=for-the-badge&logo=CleanCode&logoColor=white" />&nbsp;&nbsp;&nbsp;
 </p>
 
 
