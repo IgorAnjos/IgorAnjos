@@ -16,7 +16,7 @@
 <h4> 🔭 Atualmente, estou trabalhando com ...</h4>
 
 <p>
-  <img src="https://img.shields.io/badge/HTML5%20-%23e34f26.svg?&style=for-the-badge&logo=html5&logoColor=white" />&nbsp;&nbsp;<img src="https://img.shields.io/badge/CSS3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" />&nbsp;&nbsp;<img src="https://img.shields.io/badge/JQUERY%20-%230769ad.svg?&style=for-the-badge&logo=jquery&logoColor=white" />&nbsp;&nbsp;<img src="https://img.shields.io/badge/JAVASCRIPT%20-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white" />&nbsp;&nbsp;<img src="https://img.shields.io/badge/csharp%20-%234d97ff.svg?&style=for-the-badge&logo=.net&logoColor=white" />&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/Framework%20-%23000000.svg?&style=for-the-badge&logo=.net&logoColor=white" />&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/sql%20-%23000000.svg?&style=for-the-badge&logo=sql&logoColor=white" />&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/JAVASCRIPT%20-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white" />&nbsp;&nbsp;<img src="https://img.shields.io/badge/csharp%20-%234d97ff.svg?&style=for-the-badge&logo=.net&logoColor=white" />&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/Framework%20-%23000000.svg?&style=for-the-badge&logo=.net&logoColor=white" />&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/sql%20-%23000000.svg?&style=for-the-badge&logo=sql&logoColor=white" />&nbsp;&nbsp;&nbsp;
 </p>
 
 <hr>
