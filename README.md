@@ -8,7 +8,7 @@
 <table>
   <tr>
       <td><img width="350px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igoranjos&hide=html&layout=compact&theme=algolia" /></td>
-      <td><img width="500px" align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=igoranjos&repo=Solare&theme=algolia" /></td>
+      <td><img width="350px" align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=igoranjos&repo=Solare&theme=algolia" /></td>
   </tr>
 </table>
 <hr>
