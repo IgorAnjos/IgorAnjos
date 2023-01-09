@@ -3,7 +3,7 @@
 <div>
   <a href="https://github.com/igoranjos">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=igoranjos&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igoranjos&layout=compact&langs_count=20&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igoranjos&layout=compact&langs_count=11&theme=dracula"/>
 </div>
   
   ## Conhecimentos em:
